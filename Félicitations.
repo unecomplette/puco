@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Belle progression.</title>
+	</head>
+	<body>
+		<h1> Tu as vaincu la première étape de l'énigme.</h1>
+		<p>	Il fallait en effet prendre <strong>c</strong>haqu<strong>e</strong> lettre de chaque début de ligne et de le<strong>s</strong> met<strong>t</strong>re à la suite les unes des autres <strong>p</strong>our trouver cet url.</p>
+
+		<p>Seulement, cette énigme est loin d'être finie. Et tu n'<strong>a</strong> fait pour l'in<strong>s</strong>tant que <strong>l</strong>a partie la plus évidente. Encore une fois, je ne te laisse <strong>a</strong>ucun indice pour la prochaine étape. </p>
+	</body>
+</html>
